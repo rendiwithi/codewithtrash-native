@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    height: 655px;
+    display: block;
+}
+
+.head {
+    height: 50px;
+}
+
+ul {
+    float: right;
+    margin: 10px;
+    padding: 0;
+}
+
+li {
+    padding: 20px;
+    display: inline;
+}
+
+.body {
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome {
+    margin: 100px;
+    height: 50%;
+}
+
+.card {
+    width: 45%;
+    padding: 25px;
+    flex: 1;
+}
+
+.row {
+    padding-top: 50px;
+    height: 35%;
+    display: flex;
+}
+
+
+.boxImg{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+.bottom {
+    height: 500px;
+    display: block;
+}
+.credit{
+    height: 50px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
